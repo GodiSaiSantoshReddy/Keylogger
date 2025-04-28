@@ -1,0 +1,6 @@
+pynput
+psutil
+pyttsx3
+pillow
+scikit-learn
+smtplib
