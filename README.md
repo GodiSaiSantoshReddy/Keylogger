@@ -1,7 +1,7 @@
-# Keylogger Project
+# An Advance Keylogger Project
 
 ## Aim of the Experiment
-To develop a keylogging software that records keystrokes and captures screenshots and audio at regular intervals to monitor user activity. This tool aims to enhance security, assist in monitoring children’s or students' activities, and detect potential misuse of devices in an educational or parental monitoring context.
+To develop an advance keylogging software that records keystrokes and captures screenshots and audio at regular intervals to monitor user activity. This tool aims to enhance security, assist in monitoring children’s or students' activities, and detect potential misuse of devices in an educational or parental monitoring context.
 
 ## Requirements
 
